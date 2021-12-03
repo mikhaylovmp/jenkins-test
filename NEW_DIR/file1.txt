@@ -1,2 +1,6 @@
-Ver2.0
+//ver.2.0 - minor
+
+//ver.3.0 - major
+
+Ver3.0
 
